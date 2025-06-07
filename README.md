@@ -55,5 +55,3 @@ To elevate the project to an intermediate level:
 - Build a real-time detection system that monitors live network traffic.
 - Add a GUI to visualize the detection results.
 
-## Author
-Melisa Sever
